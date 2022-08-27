@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/T"
+baseurl: "/"
 url: "https://halli-online.de"
 
 # THEME-SPECIFIC CONFIGURATION
